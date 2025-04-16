@@ -51,5 +51,5 @@ Vous avez le droit d’utiliser des outils d’assistance (ChatGPT, Copilot, Sta
 - Comment vous avez intégré chaque exigence technique du brief
 
 ### ⚠️ Sanctions
-- Une explication non satisfaisante (à la seule discrétion du profésseur) = retrait de points
+- Une explication non satisfaisante (à la seule discrétion du professeur) = retrait de points
 - Un projet entièrement généré sans logique propre ni architecture = validation refusée
